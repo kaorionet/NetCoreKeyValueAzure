@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\controllers\\registeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\controllers\\registeraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\core\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\core\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\models\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\models\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\backendtectest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\backendtectest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|c:\\users\\kaori\\onedrive\\documents\\tec\\backendtectest\\backendtectest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE0D823-BE60-43F1-B6D7-5B4A5FB8F85A}|BackendTecTest\\BackendTecTest.csproj|solutionrelative:backendtectest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BackendTecTest\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\appsettings.Development.json",
+              "RelativeToolTip": "BackendTecTest\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T19:29:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BackendTecTest\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\WeatherForecast.cs",
+              "RelativeToolTip": "BackendTecTest\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:31:39.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendTecTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\appsettings.json",
+              "RelativeToolTip": "BackendTecTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T18:31:33.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackendTecTest.csproj",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\BackendTecTest.csproj",
+              "RelativeDocumentMoniker": "BackendTecTest\\BackendTecTest.csproj",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\BackendTecTest.csproj",
+              "RelativeToolTip": "BackendTecTest\\BackendTecTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T18:11:31.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Program.cs",
+              "RelativeDocumentMoniker": "BackendTecTest\\Program.cs",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Program.cs*",
+              "RelativeToolTip": "BackendTecTest\\Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:12:29.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BackendTecTest\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BackendTecTest\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:51:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterAccount.cs",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Controllers\\RegisterAccount.cs",
+              "RelativeDocumentMoniker": "BackendTecTest\\Controllers\\RegisterAccount.cs",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Controllers\\RegisterAccount.cs",
+              "RelativeToolTip": "BackendTecTest\\Controllers\\RegisterAccount.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:51:34.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalVariables.cs",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Models\\GlobalVariables.cs",
+              "RelativeDocumentMoniker": "BackendTecTest\\Models\\GlobalVariables.cs",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Models\\GlobalVariables.cs",
+              "RelativeToolTip": "BackendTecTest\\Models\\GlobalVariables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:01:41.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackendTecTest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackendTecTest\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T07:44:26.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Core\\Global.cs",
+              "RelativeDocumentMoniker": "BackendTecTest\\Core\\Global.cs",
+              "ToolTip": "C:\\Users\\kaori\\OneDrive\\Documents\\Tec\\BackendTecTest\\BackendTecTest\\Core\\Global.cs",
+              "RelativeToolTip": "BackendTecTest\\Core\\Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T15:05:33.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

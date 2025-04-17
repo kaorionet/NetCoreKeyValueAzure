@@ -1,0 +1,54 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:22504",
+      "sslPort": 44329
+    }
+    
+  },
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:5220",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "KeyVaultName": "testtec",
+        "AzureADApplicationId": "dd8dae03-7c42-42c3-ab68-edc0d1e6918b",
+        "AzureADCertThumbprint": "CE199AD5FD901DA0D975B6BADC6F401F179A208B",
+        "AzureADDirectoryId": "dd8dae03-7c42-42c3-ab68-edc0d1e6918b"
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7084;http://localhost:5220",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "KeyVaultName": "testtec",
+        "AzureADApplicationId": "dd8dae03-7c42-42c3-ab68-edc0d1e6918b",
+        "AzureADCertThumbprint": "CE199AD5FD901DA0D975B6BADC6F401F179A208B",
+        "AzureADDirectoryId": "dd8dae03-7c42-42c3-ab68-edc0d1e6918b"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "KeyVaultName": "testtec",
+        "AzureADApplicationId": "dd8dae03-7c42-42c3-ab68-edc0d1e6918b",
+        "AzureADCertThumbprint": "CE199AD5FD901DA0D975B6BADC6F401F179A208B",
+        "AzureADDirectoryId": "dd8dae03-7c42-42c3-ab68-edc0d1e6918b"
+      }
+    }
+  }
+}
